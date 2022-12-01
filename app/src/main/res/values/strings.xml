@@ -2,4 +2,7 @@
     <string name="app_name">UserVip</string>
     <string name="nombre">Nombre</string>
     <string name="pregunta_vip">¿Eres VIP?</string>
+    <string name="continuar">Continuar</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="boton_cerrar">Cerrar sesion</string>
 </resources>
